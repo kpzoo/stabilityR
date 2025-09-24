@@ -1,4 +1,4 @@
-% Fig 1B analysis 
+% Fig 1A analysis 
 clearvars; clc; close all;
 
 % Dimension of range

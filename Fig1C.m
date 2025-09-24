@@ -1,4 +1,4 @@
-% Fig 1C analysis: gamma distributions for R = 1 and E = 1
+% Examine gamma distributions for R = 1 and E = 1
 clearvars; clc; close all; tic;
 
 % Assumptions and notes
