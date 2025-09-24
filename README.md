@@ -1,9 +1,9 @@
 # stabilityR
 
 
-We present Matlab code to reproduce all analyses and figures from the paper "When is the R = 1 epidemic threshold meaningful?" by Kris V Parag, Anne Cori and Uri Obolski. 
+We present Matlab code to reproduce all analyses and figures from the paper "When is the R = 1 epidemic threshold meaningful?" by Kris V Parag, Mauricio Santillana, Anne Cori and Uri Obolski. 
 
-This work focuses on showing that R=1 is not a good measure of epidemic stability in (realistic) heterogeneous setting because it can hide resurgent (local) groups. We propose a previously developed statistic E (the risk averse reproduction number) as an improvement for guaranteeing local stability given a global statistic.
+This work focuses on showing that R=1 is not a good measure of epidemic stability in (realistic) heterogeneous setting because it can hide resurgent (local) groups. We propose a previously developed statistic E (the risk averse reproduction number) as an improvement for guaranteeing local stability given a global statistic. There are two empirical analyses (Fig 5 and S1 for Italy and the USA).
 
 System Requirements
 
